@@ -1,11 +1,13 @@
 import {
   NavigationMenu,
   NavigationMenuContent,
+  NavigationMenuIndicator,
   NavigationMenuItem,
   NavigationMenuLink,
   NavigationMenuList,
   NavigationMenuTrigger,
-} from "@/components/ui/navigation-menu";
+  NavigationMenuViewport,
+} from "@/components/ui/navigation-menu"
 
 export function Navbar() {
   return (
